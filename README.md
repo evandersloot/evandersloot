@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**evandersloot/evandersloot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello all 👋
 
 
 - 🔭 I’m currently working on finishing the CareerFoundry Bootcamp for Full-Stack web Development. Six months of hard work is paying off!
@@ -11,4 +8,3 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: https://www.linkedin.com/in/eric-vandersloot-b19b96197/
 - ⚡ Fun fact: I am a career changer after spending 10 years in Law Enforcement.
--->
